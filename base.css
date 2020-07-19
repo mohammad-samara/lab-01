@@ -46,3 +46,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    width: fit-content;
+    margin: 5% auto 0px auto;
+}
